@@ -78,7 +78,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/hypery2k/nativescript-urlhandler.git"
+        "url": "git+https://github.com/mvargaslandolfi1993/nativescript-urlhandler.git"
     },
     "nativescript": {
         "platforms": {
@@ -99,7 +99,7 @@
     "author": "Martin Reinhardt",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/hypery2k/nativescript-urlhandler/issues"
+        "url": "+https://github.com/mvargaslandolfi1993/nativescript-urlhandler.git"
     },
     "homepage": "https://github.com/hypery2k/nativescript-urlhandler"
 }
