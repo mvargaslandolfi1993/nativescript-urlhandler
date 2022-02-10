@@ -1,5 +1,5 @@
 
-import * as application from 'application';
+import * as application from '@nativescript/core/application';
 import { getCallback, extractAppURL } from './urlhandler.common';
 export { handleOpenURL } from './urlhandler.common';
 
